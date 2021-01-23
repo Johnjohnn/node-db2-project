@@ -42,3 +42,17 @@ Follow these steps for completing your project.
 
 - [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 
+===================================================================================================================================================================================
+1st im gonna install some packages into the JSON folder 
+1: nodemon     npm i nodemon                                      `YOU CAN ADD npm init -y if you dont have a package.json`
+2: npm i express 
+3: npm install express-router
+4:npm install dotenv
+5:npm i pg express
+
+1: create  your index.js File  after installing all of the above and you can add a welcome Router file just to test the API . 
+
+2: create a knex.js file (`This will be your database configure`)
+
+3: create a config file 
+s
